@@ -19,8 +19,3 @@ Downtime_Reason as the main driver of performance decrease
 - MySQL (data extraction)
 - Excel (data preparation)
 
-## Screenshots
-![Production Overview](PBI1.png)
-![Scrap Analysis](PBI2.png)
-![OEE Analysis](PBI3.png)
-![Key Influencers](PBI4.png)
